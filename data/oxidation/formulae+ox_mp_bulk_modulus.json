@@ -1,0 +1,2856 @@
+{
+  "TiNbO4": {
+    "Ti": 4.0,
+    "Nb": 4.0,
+    "O": -2.0
+  },
+  "LiMg2Rh": null,
+  "VSi2": null,
+  "Pr2TlAg": null,
+  "Ca3Cd2": null,
+  "YMgZn2": null,
+  "Cu3AsS4": {
+    "Cu": 1.0,
+    "As": 5.0,
+    "S": -2.0
+  },
+  "NbTeI3": {
+    "Nb": 5.0,
+    "Te": -2.0,
+    "I": -1.0
+  },
+  "CuBIr": null,
+  "Na4CoO3": {
+    "Na": 1.0,
+    "Co": 2.0,
+    "O": -2.0
+  },
+  "RbTaO3": {
+    "Rb": 1.0,
+    "Ta": 5.0,
+    "O": -2.0
+  },
+  "H2C": {
+    "H": 1.0,
+    "C": -2.0
+  },
+  "Sc3RuC4": {
+    "Sc": 3.0,
+    "Ru": 5.0,
+    "C": -3.5
+  },
+  "Sc2Pt": null,
+  "ScZn": null,
+  "V2H3O5": {
+    "V": 3.5,
+    "H": 1.0,
+    "O": -2.0
+  },
+  "Ti3Bi": null,
+  "GaPt3": {
+    "Ga": 2.0,
+    "Pt": -0.6666666666666666
+  },
+  "Na(Cu3O4)2": {
+    "Na": 1.0,
+    "Cu": 2.5,
+    "O": -2.0
+  },
+  "K(Cu2As)2": {
+    "K": 1.0,
+    "Cu": 1.25,
+    "As": -3.0
+  },
+  "K2CN2": {
+    "K": 1.0,
+    "C": 4.0,
+    "N": -3.0
+  },
+  "Y2B3C2": null,
+  "LiFeF5": null,
+  "CaInPd": null,
+  "DyTe2": {
+    "Dy": 3.0,
+    "Te": -1.5
+  },
+  "TiBe2Ir": null,
+  "TiGaCo2": null,
+  "VBO4": {
+    "V": 5.0,
+    "B": 3.0,
+    "O": -2.0
+  },
+  "B2W": {
+    "B": -3.0,
+    "W": 6.0
+  },
+  "CaSiPt": {
+    "Ca": 2.0,
+    "Si": -4.0,
+    "Pt": 2.0
+  },
+  "Li3BrO": {
+    "Li": 1.0,
+    "Br": -1.0,
+    "O": -2.0
+  },
+  "YNi3": null,
+  "Ti2C": {
+    "Ti": 2.0,
+    "C": -4.0
+  },
+  "MgP4": {
+    "Mg": 2.0,
+    "P": -0.5
+  },
+  "InAgO2": {
+    "In": 3.0,
+    "Ag": 1.0,
+    "O": -2.0
+  },
+  "Y3Al2": null,
+  "Pd3S": null,
+  "ZrSnPd2": null,
+  "BPd2": null,
+  "TiRe2W": null,
+  "HgBr": {
+    "Hg": 1.0,
+    "Br": -1.0
+  },
+  "MnGaPt": null,
+  "Ta2Co": null,
+  "MnCu2SnSe4": {
+    "Mn": 2.0,
+    "Cu": 1.0,
+    "Sn": 4.0,
+    "Se": -2.0
+  },
+  "RbGe2N3": {
+    "Rb": 1.0,
+    "Ge": 4.0,
+    "N": -3.0
+  },
+  "YAlSi": null,
+  "BaFe4O7": {
+    "Ba": 2.0,
+    "Fe": 3.0,
+    "O": -2.0
+  },
+  "LiFeP": {
+    "Li": 1.0,
+    "Fe": 2.0,
+    "P": -3.0
+  },
+  "Pb(ClO2)2": null,
+  "MnAlOs2": null,
+  "Na2NiO3": {
+    "Na": 1.0,
+    "Ni": 4.0,
+    "O": -2.0
+  },
+  "Rb3CuO2": {
+    "Rb": 1.0,
+    "Cu": 1.0,
+    "O": -2.0
+  },
+  "Cd(InTe2)2": {
+    "Cd": 2.0,
+    "In": 3.0,
+    "Te": -2.0
+  },
+  "TaRu": null,
+  "InCuPt2": {
+    "In": 3.0,
+    "Cu": 1.0,
+    "Pt": -2.0
+  },
+  "LiCaSi2": null,
+  "MoSe2": {
+    "Mo": 4.0,
+    "Se": -2.0
+  },
+  "Li6IrN4": {
+    "Li": 1.0,
+    "Ir": 4.0,
+    "N": -2.5
+  },
+  "NiPtF6": {
+    "Ni": 2.0,
+    "Pt": 4.0,
+    "F": -1.0
+  },
+  "TiFeO4": null,
+  "V2CuO6": {
+    "V": 5.0,
+    "Cu": 2.0,
+    "O": -2.0
+  },
+  "YScO3": {
+    "Y": 3.0,
+    "Sc": 3.0,
+    "O": -2.0
+  },
+  "Na2CO3": {
+    "Na": 1.0,
+    "C": 4.0,
+    "O": -2.0
+  },
+  "Ta3Sb": null,
+  "AlOs": null,
+  "BaPd2": null,
+  "CdHg2": null,
+  "Ca6MnN5": {
+    "Ca": 2.0,
+    "Mn": 3.0,
+    "N": -3.0
+  },
+  "Ca3MoN3": {
+    "Ca": 2.0,
+    "Mo": 3.0,
+    "N": -3.0
+  },
+  "MgTaOs2": null,
+  "Li3Tc": {
+    "Li": 1.0,
+    "Tc": -3.0
+  },
+  "SrPt5": {
+    "Sr": 2.0,
+    "Pt": -0.4
+  },
+  "Ti2O3": {
+    "Ti": 3.0,
+    "O": -2.0
+  },
+  "CuSe": {
+    "Cu": 2.0,
+    "Se": -2.0
+  },
+  "Li2SnN2": {
+    "Li": 1.0,
+    "Sn": 4.0,
+    "N": -3.0
+  },
+  "GePt2": {
+    "Ge": 4.0,
+    "Pt": -2.0
+  },
+  "Zn(AgO2)2": {
+    "Zn": 2.0,
+    "Ag": 3.0,
+    "O": -2.0
+  },
+  "Pt3O4": {
+    "Pt": 2.6666666666666665,
+    "O": -2.0
+  },
+  "OsO2": {
+    "Os": 4.0,
+    "O": -2.0
+  },
+  "Na2Se": {
+    "Na": 1.0,
+    "Se": -2.0
+  },
+  "Ca2Co2O5": {
+    "Ca": 2.0,
+    "Co": 3.0,
+    "O": -2.0
+  },
+  "TiZnAu2": null,
+  "MgCu4Sn": null,
+  "Li4Fe3O8": null,
+  "Ta2BN3": {
+    "Ta": 3.0,
+    "B": 3.0,
+    "N": -3.0
+  },
+  "NiBi3": null,
+  "NaMgSb": {
+    "Na": 1.0,
+    "Mg": 2.0,
+    "Sb": -3.0
+  },
+  "K2CuSb": {
+    "K": 1.0,
+    "Cu": 1.0,
+    "Sb": -3.0
+  },
+  "Mg2H6Ru": {
+    "Mg": 2.0,
+    "H": -1.0,
+    "Ru": 2.0
+  },
+  "ScFeSi": {
+    "Sc": 2.0,
+    "Fe": 2.0,
+    "Si": -4.0
+  },
+  "Hf2ReIr": null,
+  "NaNiO2": {
+    "Na": 1.0,
+    "Ni": 3.0,
+    "O": -2.0
+  },
+  "LaCo5": null,
+  "Sr2PdO3": {
+    "Sr": 2.0,
+    "Pd": 2.0,
+    "O": -2.0
+  },
+  "YMnSi": null,
+  "YInRh2": null,
+  "Tm2O3": {
+    "Tm": 3.0,
+    "O": -2.0
+  },
+  "VP2": {
+    "V": 5.0,
+    "P": -2.5
+  },
+  "YCu": null,
+  "TiN": {
+    "Ti": 3.0,
+    "N": -3.0
+  },
+  "SnPS3": {
+    "Sn": 2.0,
+    "P": 4.0,
+    "S": -2.0
+  },
+  "GaNiRh2": null,
+  "LiB": null,
+  "Nb2SnC": null,
+  "TiO2": {
+    "Ti": 4.0,
+    "O": -2.0
+  },
+  "TiAlOs2": null,
+  "Te2O5": {
+    "Te": 5.0,
+    "O": -2.0
+  },
+  "BPt": null,
+  "CrOF3": {
+    "Cr": 5.0,
+    "O": -2.0,
+    "F": -1.0
+  },
+  "VOF2": {
+    "V": 4.0,
+    "O": -2.0,
+    "F": -1.0
+  },
+  "Li2CrO3": {
+    "Li": 1.0,
+    "Cr": 4.0,
+    "O": -2.0
+  },
+  "GaCu3": null,
+  "CoP": {
+    "Co": 3.0,
+    "P": -3.0
+  },
+  "LuNi2": null,
+  "TmMg2Sc": null,
+  "NaAgO": {
+    "Na": 1.0,
+    "Ag": 1.0,
+    "O": -2.0
+  },
+  "Ag3Pt": null,
+  "YZnRh2": null,
+  "K3BAs2": {
+    "K": 1.0,
+    "B": 3.0,
+    "As": -3.0
+  },
+  "VRh3": null,
+  "MgInNi2": null,
+  "CaSn2O5": {
+    "Ca": 2.0,
+    "Sn": 4.0,
+    "O": -2.0
+  },
+  "TaNi2Te3": {
+    "Ta": 3.0,
+    "Ni": 1.5,
+    "Te": -2.0
+  },
+  "VCoSb": {
+    "V": 2.0,
+    "Co": 1.0,
+    "Sb": -3.0
+  },
+  "LiP": {
+    "Li": 1.0,
+    "P": -1.0
+  },
+  "Sb2Pt": {
+    "Sb": 1.0,
+    "Pt": -2.0
+  },
+  "CsCoCl3": {
+    "Cs": 1.0,
+    "Co": 2.0,
+    "Cl": -1.0
+  },
+  "TaSiIr": null,
+  "Mg2Cu": null,
+  "Ba3V2O8": {
+    "Ba": 2.0,
+    "V": 5.0,
+    "O": -2.0
+  },
+  "HgTe": {
+    "Hg": 2.0,
+    "Te": -2.0
+  },
+  "MnAl2O4": {
+    "Mn": 2.0,
+    "Al": 3.0,
+    "O": -2.0
+  },
+  "Be2NiIr": null,
+  "MoPt3": {
+    "Mo": 6.0,
+    "Pt": -2.0
+  },
+  "ErCdRh2": null,
+  "WO2": {
+    "W": 4.0,
+    "O": -2.0
+  },
+  "Cu2GeS3": {
+    "Cu": 1.0,
+    "Ge": 4.0,
+    "S": -2.0
+  },
+  "V2N": null,
+  "Y2O3": {
+    "Y": 3.0,
+    "O": -2.0
+  },
+  "Ca(CoGe)2": null,
+  "NiI2": {
+    "Ni": 2.0,
+    "I": -1.0
+  },
+  "PCl3": {
+    "P": 3.0,
+    "Cl": -1.0
+  },
+  "Ti3PO2": {
+    "Ti": 2.3333333333333335,
+    "P": -3.0,
+    "O": -2.0
+  },
+  "KTbO3": null,
+  "WO3": {
+    "W": 6.0,
+    "O": -2.0
+  },
+  "BeCl2": {
+    "Be": 2.0,
+    "Cl": -1.0
+  },
+  "Bi2S3": {
+    "Bi": 3.0,
+    "S": -2.0
+  },
+  "ScCl": null,
+  "SrS": {
+    "Sr": 2.0,
+    "S": -2.0
+  },
+  "Ca(CuSn)2": null,
+  "Mo2SeS3": {
+    "Mo": 4.0,
+    "Se": -2.0,
+    "S": -2.0
+  },
+  "KPdF3": {
+    "K": 1.0,
+    "Pd": 2.0,
+    "F": -1.0
+  },
+  "La2S3": {
+    "La": 3.0,
+    "S": -2.0
+  },
+  "Li3BO3": {
+    "Li": 1.0,
+    "B": 3.0,
+    "O": -2.0
+  },
+  "Zr2CoTc": null,
+  "ScOs2": {
+    "Sc": 3.0,
+    "Os": -1.5
+  },
+  "Nb2CrSe4": {
+    "Nb": 2.5,
+    "Cr": 3.0,
+    "Se": -2.0
+  },
+  "Bi2OsAu": {
+    "Bi": 1.0,
+    "Os": -1.0,
+    "Au": -1.0
+  },
+  "V(CO3)2": {
+    "V": 4.0,
+    "C": 4.0,
+    "O": -2.0
+  },
+  "BeVOs2": {
+    "Be": 2.0,
+    "V": 2.0,
+    "Os": -2.0
+  },
+  "YPd3": null,
+  "LiAl3": null,
+  "ScSi": null,
+  "Sr3Fe2S2O5": {
+    "Sr": 2.0,
+    "Fe": 2.0,
+    "S": 0.0,
+    "O": -2.0
+  },
+  "LiHO": {
+    "Li": 1.0,
+    "H": 1.0,
+    "O": -2.0
+  },
+  "CdS": {
+    "Cd": 2.0,
+    "S": -2.0
+  },
+  "FeN": {
+    "Fe": 3.0,
+    "N": -3.0
+  },
+  "IrW": null,
+  "Zn(GaNi)3": null,
+  "ScNiGe": null,
+  "Zr3Zn": null,
+  "CoI2": {
+    "Co": 2.0,
+    "I": -1.0
+  },
+  "Sc2Sb": null,
+  "NbAl3": null,
+  "CsI3": null,
+  "V2C": {
+    "V": 2.0,
+    "C": -4.0
+  },
+  "FeCo": null,
+  "Sb6O13": {
+    "Sb": 4.333333333333333,
+    "O": -2.0
+  },
+  "Li4TiO4": {
+    "Li": 1.0,
+    "Ti": 4.0,
+    "O": -2.0
+  },
+  "ZnCo2Ge": null,
+  "Ba3(AlGe)2": null,
+  "TaAlNi2": null,
+  "Ba(CoAs)2": {
+    "Ba": 2.0,
+    "Co": 2.0,
+    "As": -3.0
+  },
+  "Sr4ZrN4": {
+    "Sr": 2.0,
+    "Zr": 4.0,
+    "N": -3.0
+  },
+  "NiAs2": {
+    "Ni": 2.0,
+    "As": -1.0
+  },
+  "Hf2Ni2Sn": null,
+  "LaAlO3": {
+    "La": 3.0,
+    "Al": 3.0,
+    "O": -2.0
+  },
+  "Ti3Cu": null,
+  "NiSe2": {
+    "Ni": 4.0,
+    "Se": -2.0
+  },
+  "AlF3": {
+    "Al": 3.0,
+    "F": -1.0
+  },
+  "Zr2Fe3Ge": null,
+  "YTiSi": null,
+  "KSO4": null,
+  "TiTc2Mo": {
+    "Ti": 4.0,
+    "Tc": -3.0,
+    "Mo": 2.0
+  },
+  "CaLaFeSbO6": {
+    "Ca": 2.0,
+    "La": 3.0,
+    "Fe": 2.0,
+    "Sb": 5.0,
+    "O": -2.0
+  },
+  "Sr2Co2O5": {
+    "Sr": 2.0,
+    "Co": 3.0,
+    "O": -2.0
+  },
+  "Hf5CuSn3": null,
+  "CaMgHg2": null,
+  "HfAlPt": null,
+  "Zr5Te4": null,
+  "Hf2CoP": null,
+  "VAsRh": null,
+  "SbRu": {
+    "Sb": -3.0,
+    "Ru": 3.0
+  },
+  "NbS3": {
+    "Nb": 5.0,
+    "S": -1.6666666666666667
+  },
+  "KSbO3": {
+    "K": 1.0,
+    "Sb": 5.0,
+    "O": -2.0
+  },
+  "CaAg2": null,
+  "Si3Rh5": null,
+  "Cu2SnSe4": {
+    "Cu": 2.0,
+    "Sn": 4.0,
+    "Se": -2.0
+  },
+  "Ir3Rh": null,
+  "AgAsRu2": null,
+  "Ca5P3O12F": {
+    "Ca": 2.0,
+    "P": 5.0,
+    "O": -2.0,
+    "F": -1.0
+  },
+  "CaGaPt": null,
+  "SmCoSi3": {
+    "Sm": 3.0,
+    "Co": 1.0,
+    "Si": -1.3333333333333333
+  },
+  "RbAlF4": {
+    "Rb": 1.0,
+    "Al": 3.0,
+    "F": -1.0
+  },
+  "Ti2Cu": null,
+  "HfAlRh2": null,
+  "Co2B": {
+    "Co": 1.5,
+    "B": -3.0
+  },
+  "Ba3SbN": {
+    "Ba": 2.0,
+    "Sb": -3.0,
+    "N": -3.0
+  },
+  "HfBeSi": null,
+  "HfGaNi2": null,
+  "YbGa5Co": null,
+  "Al4Cu9": null,
+  "Li2NbF6": {
+    "Li": 1.0,
+    "Nb": 4.0,
+    "F": -1.0
+  },
+  "Zr6Al2Co": null,
+  "ScCd3": null,
+  "YbMnO3": {
+    "Yb": 3.0,
+    "Mn": 3.0,
+    "O": -2.0
+  },
+  "OsO4": {
+    "Os": 8.0,
+    "O": -2.0
+  },
+  "HfNiSn": null,
+  "ScBi": null,
+  "LaMg2": null,
+  "ZrMo2": null,
+  "NbAlFe2": null,
+  "Mg2Cu3Si": null,
+  "ZnNi2Ge": null,
+  "Cu2SiSe3": {
+    "Cu": 1.0,
+    "Si": 4.0,
+    "Se": -2.0
+  },
+  "SrSnO3": {
+    "Sr": 2.0,
+    "Sn": 4.0,
+    "O": -2.0
+  },
+  "UTeAs": {
+    "U": 5.0,
+    "Te": -2.0,
+    "As": -3.0
+  },
+  "HfMo2": null,
+  "Na3P11": {
+    "Na": 1.0,
+    "P": -0.2727272727272727
+  },
+  "K2PtBr4": {
+    "K": 1.0,
+    "Pt": 2.0,
+    "Br": -1.0
+  },
+  "Cd(PtO2)3": {
+    "Cd": 2.0,
+    "Pt": 3.3333333333333335,
+    "O": -2.0
+  },
+  "HoAgHg2": null,
+  "HfTe5": {
+    "Hf": 4.0,
+    "Te": -0.8
+  },
+  "CaIn2Cu": null,
+  "NaYSn": null,
+  "Ba(MgSb)2": {
+    "Ba": 2.0,
+    "Mg": 2.0,
+    "Sb": -3.0
+  },
+  "SrAg2": null,
+  "RbTiS2": {
+    "Rb": 1.0,
+    "Ti": 3.0,
+    "S": -2.0
+  },
+  "NbGe2": null,
+  "HfCuSi2": null,
+  "NbCoSb": {
+    "Nb": 2.0,
+    "Co": 1.0,
+    "Sb": -3.0
+  },
+  "Mn2CoGe": null,
+  "GaRu": null,
+  "PCl3O": {
+    "P": 5.0,
+    "Cl": -1.0,
+    "O": -2.0
+  },
+  "ZrSe3": {
+    "Zr": 4.0,
+    "Se": -1.3333333333333333
+  },
+  "Sm2O": null,
+  "Y2MgSe4": {
+    "Y": 3.0,
+    "Mg": 2.0,
+    "Se": -2.0
+  },
+  "MoN": {
+    "Mo": 3.0,
+    "N": -3.0
+  },
+  "H2O": {
+    "H": 1.0,
+    "O": -2.0
+  },
+  "Hf2N": null,
+  "Ba2MnTe3": {
+    "Ba": 2.0,
+    "Mn": 2.0,
+    "Te": -2.0
+  },
+  "Li3Au": null,
+  "ZnAg3": null,
+  "Au2O3": {
+    "Au": 3.0,
+    "O": -2.0
+  },
+  "Ni2SbTe": {
+    "Ni": 2.0,
+    "Sb": -2.0,
+    "Te": -2.0
+  },
+  "PaZnRu2": null,
+  "CaSn3": null,
+  "ReB2": {
+    "Re": 6.0,
+    "B": -3.0
+  },
+  "Hf(CoSi)2": {
+    "Hf": 4.0,
+    "Co": 2.0,
+    "Si": -4.0
+  },
+  "CuNi2Sb": {
+    "Cu": 1.0,
+    "Ni": 1.0,
+    "Sb": -3.0
+  },
+  "Fe5C2": null,
+  "Ti2Al": null,
+  "MgSnRh2": null,
+  "Al9Co2": null,
+  "KZnSb": {
+    "K": 1.0,
+    "Zn": 2.0,
+    "Sb": -3.0
+  },
+  "UC2": {
+    "U": 6.0,
+    "C": -3.0
+  },
+  "UNi5": null,
+  "Ba(CoN)2": {
+    "Ba": 2.0,
+    "Co": 2.0,
+    "N": -3.0
+  },
+  "CuAu3": {
+    "Cu": 1.0,
+    "Au": -0.3333333333333333
+  },
+  "CeBe13": null,
+  "ZrAlNi2": null,
+  "V3NiS6": {
+    "V": 3.3333333333333335,
+    "Ni": 2.0,
+    "S": -2.0
+  },
+  "Li15Au4": null,
+  "Zn(BIr)2": null,
+  "Ca3VN3": {
+    "Ca": 2.0,
+    "V": 3.0,
+    "N": -3.0
+  },
+  "CaCdSn": null,
+  "KCuS": {
+    "K": 1.0,
+    "Cu": 1.0,
+    "S": -2.0
+  },
+  "TiTl2F6": {
+    "Ti": 4.0,
+    "Tl": 1.0,
+    "F": -1.0
+  },
+  "LiC": null,
+  "Yb2ZnGa": null,
+  "SnSb": {
+    "Sn": 2.0,
+    "Sb": -2.0
+  },
+  "YCuP2": {
+    "Y": 3.0,
+    "Cu": 1.0,
+    "P": -2.0
+  },
+  "KPtN": {
+    "K": 1.0,
+    "Pt": 2.0,
+    "N": -3.0
+  },
+  "CaSiN2": {
+    "Ca": 2.0,
+    "Si": 4.0,
+    "N": -3.0
+  },
+  "Y2IrPd": null,
+  "Ca(MgSb)2": {
+    "Ca": 2.0,
+    "Mg": 2.0,
+    "Sb": -3.0
+  },
+  "Sc2AlRu": null,
+  "Eu(CdSb)2": {
+    "Eu": 2.0,
+    "Cd": 2.0,
+    "Sb": -3.0
+  },
+  "SiPt2": {
+    "Si": 4.0,
+    "Pt": -2.0
+  },
+  "Sc3Tc": null,
+  "Ga2NiS4": {
+    "Ga": 3.0,
+    "Ni": 2.0,
+    "S": -2.0
+  },
+  "CsCl": {
+    "Cs": 1.0,
+    "Cl": -1.0
+  },
+  "SnAu5": {
+    "Sn": 2.0,
+    "Au": -0.4
+  },
+  "BeGaCo2": null,
+  "Mn3AgN": null,
+  "BeSiOs2": {
+    "Be": 2.0,
+    "Si": -4.0,
+    "Os": 1.0
+  },
+  "VTc": {
+    "V": 3.0,
+    "Tc": -3.0
+  },
+  "TaTiAl": null,
+  "Na2H2Pd": null,
+  "Cr2N": null,
+  "K2Mn2O3": {
+    "K": 1.0,
+    "Mn": 2.0,
+    "O": -2.0
+  },
+  "WCl4O": {
+    "W": 6.0,
+    "Cl": -1.0,
+    "O": -2.0
+  },
+  "Ho3TlC": null,
+  "Co2P2O7": {
+    "Co": 2.0,
+    "P": 5.0,
+    "O": -2.0
+  },
+  "V3FeO8": {
+    "V": 4.333333333333333,
+    "Fe": 3.0,
+    "O": -2.0
+  },
+  "Ti2S": null,
+  "MgSc2Al": null,
+  "LaOs2": {
+    "La": 3.0,
+    "Os": -1.5
+  },
+  "LiZnAg2": null,
+  "CuCl4": null,
+  "SmMn2O5": {
+    "Sm": 3.0,
+    "Mn": 3.5,
+    "O": -2.0
+  },
+  "NbCrP": null,
+  "Li3VF7": {
+    "Li": 1.0,
+    "V": 4.0,
+    "F": -1.0
+  },
+  "ScSiRh": null,
+  "Sc3AlC": null,
+  "TiAs": {
+    "Ti": 3.0,
+    "As": -3.0
+  },
+  "TiMn2Al": null,
+  "Sr2MgH6": {
+    "Sr": 2.0,
+    "Mg": 2.0,
+    "H": -1.0
+  },
+  "TiMn2W": null,
+  "CaZnSn": null,
+  "Sc2InNi2": null,
+  "K2ZnF4": {
+    "K": 1.0,
+    "Zn": 2.0,
+    "F": -1.0
+  },
+  "MnTe": {
+    "Mn": 2.0,
+    "Te": -2.0
+  },
+  "PrAl3": null,
+  "TiPbO3": {
+    "Ti": 4.0,
+    "Pb": 2.0,
+    "O": -2.0
+  },
+  "Mn3Sn": null,
+  "CoSi": {
+    "Co": 4.0,
+    "Si": -4.0
+  },
+  "MgGaAg2": null,
+  "CsAu": {
+    "Cs": 1.0,
+    "Au": -1.0
+  },
+  "AlRe": null,
+  "ScGa2Ni": null,
+  "MoPt2": {
+    "Mo": 4.0,
+    "Pt": -2.0
+  },
+  "Pd3Pb": null,
+  "MgIr2": null,
+  "LiZn2Ir": null,
+  "LiRhO2": {
+    "Li": 1.0,
+    "Rh": 3.0,
+    "O": -2.0
+  },
+  "Mn3Si": null,
+  "Mg2H6Os": {
+    "Mg": 2.0,
+    "H": -0.3333333333333333,
+    "Os": -2.0
+  },
+  "BaMnO3": {
+    "Ba": 2.0,
+    "Mn": 4.0,
+    "O": -2.0
+  },
+  "TiFe": null,
+  "Ba2CuO3": {
+    "Ba": 2.0,
+    "Cu": 2.0,
+    "O": -2.0
+  },
+  "CaZnGe": null,
+  "HfVF6": {
+    "Hf": 4.0,
+    "V": 2.0,
+    "F": -1.0
+  },
+  "ZrIn2": null,
+  "Nb6C5": {
+    "Nb": 3.3333333333333335,
+    "C": -4.0
+  },
+  "YMg2": null,
+  "Nb5SiSn2": null,
+  "GaCuO2": {
+    "Ga": 3.0,
+    "Cu": 1.0,
+    "O": -2.0
+  },
+  "ZrAlPd2": null,
+  "HfZnN2": {
+    "Hf": 4.0,
+    "Zn": 2.0,
+    "N": -3.0
+  },
+  "MnCoSi": {
+    "Mn": 2.0,
+    "Co": 2.0,
+    "Si": -4.0
+  },
+  "ThCl4": {
+    "Th": 4.0,
+    "Cl": -1.0
+  },
+  "Na(BH)6": null,
+  "V2H": null,
+  "CuBS2": {
+    "Cu": 1.0,
+    "B": 3.0,
+    "S": -2.0
+  },
+  "Y2CuO4": {
+    "Y": 3.0,
+    "Cu": 2.0,
+    "O": -2.0
+  },
+  "NdSnAu2": null,
+  "AlFe2Mo": null,
+  "BaSbPt": null,
+  "Ti3Nb": null,
+  "LiVS2": {
+    "Li": 1.0,
+    "V": 3.0,
+    "S": -2.0
+  },
+  "HfMnSi": null,
+  "K2O2": null,
+  "BaAl9Ni2": null,
+  "ScSbRh2": null,
+  "TiZn16": null,
+  "Yb2ZnPb": null,
+  "Li2GaPt": null,
+  "AsBr3": {
+    "As": 3.0,
+    "Br": -1.0
+  },
+  "ScAsO4": {
+    "Sc": 3.0,
+    "As": 5.0,
+    "O": -2.0
+  },
+  "BaAuO2": {
+    "Ba": 2.0,
+    "Au": 2.0,
+    "O": -2.0
+  },
+  "ZrO2": {
+    "Zr": 4.0,
+    "O": -2.0
+  },
+  "Y2MgGe2": null,
+  "Mg(BeN)2": {
+    "Mg": 2.0,
+    "Be": 2.0,
+    "N": -3.0
+  },
+  "Zr3Co": null,
+  "K3AlH6": {
+    "K": 1.0,
+    "Al": 3.0,
+    "H": -1.0
+  },
+  "Mg2AgPt": null,
+  "SrZrS3": {
+    "Sr": 2.0,
+    "Zr": 4.0,
+    "S": -2.0
+  },
+  "Mn2AlRe": null,
+  "LuI3": {
+    "Lu": 3.0,
+    "I": -1.0
+  },
+  "AlFeO3": {
+    "Al": 3.0,
+    "Fe": 3.0,
+    "O": -2.0
+  },
+  "ZrIr2": null,
+  "TlFeSe2": {
+    "Tl": 1.0,
+    "Fe": 3.0,
+    "Se": -2.0
+  },
+  "TaSbRu": null,
+  "CsNbN2": {
+    "Cs": 1.0,
+    "Nb": 5.0,
+    "N": -3.0
+  },
+  "RbNa2Sb": {
+    "Rb": 1.0,
+    "Na": 1.0,
+    "Sb": -3.0
+  },
+  "ScHO2": {
+    "Sc": 3.0,
+    "H": 1.0,
+    "O": -2.0
+  },
+  "KTiO3": null,
+  "Li2AlPt": null,
+  "Te2Mo3W(Se2S)2": {
+    "Te": -2.0,
+    "Mo": 4.666666666666667,
+    "W": 2.0,
+    "Se": -2.0,
+    "S": -2.0
+  },
+  "KrF2": null,
+  "Ca(AlGe)2": null,
+  "Cd(CO2)2": {
+    "Cd": 2.0,
+    "C": 3.0,
+    "O": -2.0
+  },
+  "AlAu2": null,
+  "Mn5SiC": null,
+  "ZrOs2": {
+    "Zr": 4.0,
+    "Os": -2.0
+  },
+  "HfMoP": null,
+  "LaBr": null,
+  "Hf2Ge": null,
+  "Tc3Ni": {
+    "Tc": -0.6666666666666666,
+    "Ni": 2.0
+  },
+  "ZnGeP2": {
+    "Zn": 2.0,
+    "Ge": 4.0,
+    "P": -3.0
+  },
+  "Co2N": {
+    "Co": 1.5,
+    "N": -3.0
+  },
+  "Sc2O3": {
+    "Sc": 3.0,
+    "O": -2.0
+  },
+  "Mg2AgRh": null,
+  "MnNbSi": {
+    "Mn": 2.0,
+    "Nb": 2.0,
+    "Si": -4.0
+  },
+  "Li3(CuO2)2": {
+    "Li": 1.0,
+    "Cu": 2.5,
+    "O": -2.0
+  },
+  "LiCd2Pd": null,
+  "BaAlGe": null,
+  "YMn2O5": {
+    "Y": 3.0,
+    "Mn": 3.5,
+    "O": -2.0
+  },
+  "CdCu2GeS4": {
+    "Cd": 2.0,
+    "Cu": 1.0,
+    "Ge": 4.0,
+    "S": -2.0
+  },
+  "TlPt2S3": {
+    "Tl": 3.0,
+    "Pt": 1.5,
+    "S": -2.0
+  },
+  "Fe3Sn": null,
+  "Mn2O3": {
+    "Mn": 3.0,
+    "O": -2.0
+  },
+  "MgCo": null,
+  "Ca2Cu": null,
+  "TlHCO2": {
+    "Tl": 1.0,
+    "H": 1.0,
+    "C": 2.0,
+    "O": -2.0
+  },
+  "LiBC": {
+    "Li": 1.0,
+    "B": 3.0,
+    "C": -4.0
+  },
+  "GeTe": {
+    "Ge": 2.0,
+    "Te": -2.0
+  },
+  "LiH": {
+    "Li": 1.0,
+    "H": -1.0
+  },
+  "Ca(MnBi)2": null,
+  "Zr6Al2Fe": null,
+  "Sc2PdPt": null,
+  "BaBrCl": {
+    "Ba": 2.0,
+    "Br": -1.0,
+    "Cl": -1.0
+  },
+  "ZrNiSb": {
+    "Zr": 2.0,
+    "Ni": 1.0,
+    "Sb": -3.0
+  },
+  "LiCuF2": {
+    "Li": 1.0,
+    "Cu": 1.0,
+    "F": -1.0
+  },
+  "TiPt8": {
+    "Ti": 4.0,
+    "Pt": -0.5
+  },
+  "ScIr": null,
+  "AgHgPd2": null,
+  "PbCl2": {
+    "Pb": 2.0,
+    "Cl": -1.0
+  },
+  "Ni4W": null,
+  "Mg(Co3P2)2": {
+    "Mg": 2.0,
+    "Co": 1.6666666666666667,
+    "P": -3.0
+  },
+  "Li3Hg": null,
+  "CsHF2": {
+    "Cs": 1.0,
+    "H": 1.0,
+    "F": -1.0
+  },
+  "LiGa2Pt": null,
+  "Al2FeO4": {
+    "Al": 3.0,
+    "Fe": 2.0,
+    "O": -2.0
+  },
+  "Mg3Ag": null,
+  "NiWO4": {
+    "Ni": 2.0,
+    "W": 6.0,
+    "O": -2.0
+  },
+  "CsCuCl3": {
+    "Cs": 1.0,
+    "Cu": 2.0,
+    "Cl": -1.0
+  },
+  "BaFe2S3": {
+    "Ba": 2.0,
+    "Fe": 2.0,
+    "S": -2.0
+  },
+  "YMgPd": null,
+  "Ti3InN": null,
+  "CaSn2Ir": null,
+  "ZrCoP": {
+    "Zr": 2.0,
+    "Co": 1.0,
+    "P": -3.0
+  },
+  "LiMgH3": {
+    "Li": 1.0,
+    "Mg": 2.0,
+    "H": -1.0
+  },
+  "Be17Nb2": null,
+  "TiFeSi2": null,
+  "LiBH4": {
+    "Li": 1.0,
+    "B": -3.0,
+    "H": 0.5
+  },
+  "Zn2RhAu": null,
+  "TlCoO3": {
+    "Tl": 3.0,
+    "Co": 3.0,
+    "O": -2.0
+  },
+  "Cu2SiTe3": {
+    "Cu": 1.0,
+    "Si": 4.0,
+    "Te": -2.0
+  },
+  "LiHfIr2": null,
+  "NbC": {
+    "Nb": 4.0,
+    "C": -4.0
+  },
+  "Li3C": {
+    "Li": 1.0,
+    "C": -3.0
+  },
+  "Fe3Se4": {
+    "Fe": 2.6666666666666665,
+    "Se": -2.0
+  },
+  "TiH2": {
+    "Ti": 2.0,
+    "H": -1.0
+  },
+  "SrCl2": {
+    "Sr": 2.0,
+    "Cl": -1.0
+  },
+  "LaWN3": {
+    "La": 3.0,
+    "W": 6.0,
+    "N": -3.0
+  },
+  "HfMgRh2": null,
+  "In2Co": null,
+  "Nb2InC": null,
+  "ZrAlAu2": null,
+  "VZn3": null,
+  "TiVRe2": null,
+  "LiAlNi2": null,
+  "Cs2TeI6": {
+    "Cs": 1.0,
+    "Te": 4.0,
+    "I": -1.0
+  },
+  "ScAl": null,
+  "NaBr": {
+    "Na": 1.0,
+    "Br": -1.0
+  },
+  "V2O3F": {
+    "V": 3.5,
+    "O": -2.0,
+    "F": -1.0
+  },
+  "ZrTe2": {
+    "Zr": 4.0,
+    "Te": -2.0
+  },
+  "Li2FeF6": null,
+  "CaAl4O7": {
+    "Ca": 2.0,
+    "Al": 3.0,
+    "O": -2.0
+  },
+  "BaLiP": {
+    "Ba": 2.0,
+    "Li": 1.0,
+    "P": -3.0
+  },
+  "CdWO4": {
+    "Cd": 2.0,
+    "W": 6.0,
+    "O": -2.0
+  },
+  "PtF6": {
+    "Pt": 6.0,
+    "F": -1.0
+  },
+  "TbCo5": null,
+  "Sr2ZnN2": {
+    "Sr": 2.0,
+    "Zn": 2.0,
+    "N": -3.0
+  },
+  "CrF3": {
+    "Cr": 3.0,
+    "F": -1.0
+  },
+  "HfTc": null,
+  "LuRu3": null,
+  "Nb4N3": {
+    "Nb": 2.25,
+    "N": -3.0
+  },
+  "ZrBiO4": {
+    "Zr": 3.0,
+    "Bi": 5.0,
+    "O": -2.0
+  },
+  "Zr2Ag": null,
+  "InCl": {
+    "In": 1.0,
+    "Cl": -1.0
+  },
+  "Hf2Ag": null,
+  "YMgTl": null,
+  "Ag2BiO3": {
+    "Ag": 1.5,
+    "Bi": 3.0,
+    "O": -2.0
+  },
+  "Rb2MnO4": null,
+  "Ca2FeN2": {
+    "Ca": 2.0,
+    "Fe": 2.0,
+    "N": -3.0
+  },
+  "Mn3ZnC": null,
+  "BaTiO3": {
+    "Ba": 2.0,
+    "Ti": 4.0,
+    "O": -2.0
+  },
+  "Li3VO4": {
+    "Li": 1.0,
+    "V": 5.0,
+    "O": -2.0
+  },
+  "K3BiTe3": {
+    "K": 1.0,
+    "Bi": 3.0,
+    "Te": -2.0
+  },
+  "Al12W": null,
+  "MnRh": null,
+  "CaMgSn": null,
+  "BeP2": {
+    "Be": 2.0,
+    "P": -1.0
+  },
+  "Zr2CuOs": null,
+  "TiPRu": null,
+  "Ti2ReB2": null,
+  "Pb(SN)2": {
+    "Pb": 2.0,
+    "S": -2.0,
+    "N": 1.0
+  },
+  "SrB6": null,
+  "VNi2": null,
+  "HfAlNi2": null,
+  "CoP2": {
+    "Co": 2.0,
+    "P": -1.0
+  },
+  "LiZr2Re": null,
+  "CsBr": {
+    "Cs": 1.0,
+    "Br": -1.0
+  },
+  "Gd2MgIn": null,
+  "Mg3Cu": null,
+  "Sb2O3": {
+    "Sb": 3.0,
+    "O": -2.0
+  },
+  "CaPt5": {
+    "Ca": 2.0,
+    "Pt": -0.4
+  },
+  "TiBeRh2": null,
+  "TaMn2": null,
+  "Zn(InSe2)2": {
+    "Zn": 2.0,
+    "In": 3.0,
+    "Se": -2.0
+  },
+  "CaO2": null,
+  "LiRu2W": null,
+  "PdI2": {
+    "Pd": 2.0,
+    "I": -1.0
+  },
+  "Mg3Hg": null,
+  "InCl3": {
+    "In": 3.0,
+    "Cl": -1.0
+  },
+  "Sr3(AlSn)2": null,
+  "BaCu": null,
+  "Ba3Hf2O7": {
+    "Ba": 2.0,
+    "Hf": 4.0,
+    "O": -2.0
+  },
+  "Sb3Ir": {
+    "Sb": -1.0,
+    "Ir": 3.0
+  },
+  "Mg3Cd": null,
+  "CsNa2BO3": {
+    "Cs": 1.0,
+    "Na": 1.0,
+    "B": 3.0,
+    "O": -2.0
+  },
+  "TlI": {
+    "Tl": 1.0,
+    "I": -1.0
+  },
+  "CeNi": null,
+  "Sr2PbO4": {
+    "Sr": 2.0,
+    "Pb": 4.0,
+    "O": -2.0
+  },
+  "Li2ZrF6": {
+    "Li": 1.0,
+    "Zr": 4.0,
+    "F": -1.0
+  },
+  "BaZnPb": null,
+  "CaPmHg2": null,
+  "Mg2AgIr": null,
+  "CaH2": {
+    "Ca": 2.0,
+    "H": -1.0
+  },
+  "CaZrN2": {
+    "Ca": 2.0,
+    "Zr": 4.0,
+    "N": -3.0
+  },
+  "SmCo2": null,
+  "Ac2O3": {
+    "Ac": 3.0,
+    "O": -2.0
+  },
+  "ZrCuSi": {
+    "Zr": 3.0,
+    "Cu": 1.0,
+    "Si": -4.0
+  },
+  "DyScO3": {
+    "Dy": 3.0,
+    "Sc": 3.0,
+    "O": -2.0
+  },
+  "YAlAg2": null,
+  "SrRuO3": {
+    "Sr": 2.0,
+    "Ru": 4.0,
+    "O": -2.0
+  },
+  "Na4CdP2": {
+    "Na": 1.0,
+    "Cd": 2.0,
+    "P": -3.0
+  },
+  "TiNCl": {
+    "Ti": 4.0,
+    "N": -3.0,
+    "Cl": -1.0
+  },
+  "MgCuO2": {
+    "Mg": 2.0,
+    "Cu": 2.0,
+    "O": -2.0
+  },
+  "Li3SbS4": {
+    "Li": 1.0,
+    "Sb": 5.0,
+    "S": -2.0
+  },
+  "Fe3Sn2": null,
+  "AlP": {
+    "Al": 3.0,
+    "P": -3.0
+  },
+  "Ti2SbP": {
+    "Ti": 3.0,
+    "Sb": -3.0,
+    "P": -3.0
+  },
+  "HfOs": null,
+  "Rb2MgF4": {
+    "Rb": 1.0,
+    "Mg": 2.0,
+    "F": -1.0
+  },
+  "RhSe": null,
+  "Mg(AlSi)2": {
+    "Mg": 2.0,
+    "Al": 3.0,
+    "Si": -4.0
+  },
+  "YRh2": null,
+  "SiF4": {
+    "Si": 4.0,
+    "F": -1.0
+  },
+  "MgSbPd": null,
+  "Li3Pd": null,
+  "Hf2N2O": {
+    "Hf": 4.0,
+    "N": -3.0,
+    "O": -2.0
+  },
+  "Li3Be": null,
+  "ZnCuPd2": null,
+  "Rb2WCl6": {
+    "Rb": 1.0,
+    "W": 4.0,
+    "Cl": -1.0
+  },
+  "ZrAs": {
+    "Zr": 3.0,
+    "As": -3.0
+  },
+  "PtSe2": {
+    "Pt": 4.0,
+    "Se": -2.0
+  },
+  "ZnCu2Ni": null,
+  "NaTaO3": {
+    "Na": 1.0,
+    "Ta": 5.0,
+    "O": -2.0
+  },
+  "MoN2": {
+    "Mo": 6.0,
+    "N": -3.0
+  },
+  "BaAgO2": {
+    "Ba": 2.0,
+    "Ag": 2.0,
+    "O": -2.0
+  },
+  "LiAlO2": {
+    "Li": 1.0,
+    "Al": 3.0,
+    "O": -2.0
+  },
+  "K2CoF4": {
+    "K": 1.0,
+    "Co": 2.0,
+    "F": -1.0
+  },
+  "K2OsCl6": {
+    "K": 1.0,
+    "Os": 4.0,
+    "Cl": -1.0
+  },
+  "K3BN2": {
+    "K": 1.0,
+    "B": 3.0,
+    "N": -3.0
+  },
+  "YZnSn": null,
+  "Ti3Sb": null,
+  "AlCuCl4": {
+    "Al": 3.0,
+    "Cu": 1.0,
+    "Cl": -1.0
+  },
+  "Ti2CS": {
+    "Ti": 3.0,
+    "C": -4.0,
+    "S": -2.0
+  },
+  "Al2CoIr": null,
+  "BeF2": {
+    "Be": 2.0,
+    "F": -1.0
+  },
+  "V2CrTc": null,
+  "NaBH4": {
+    "Na": 1.0,
+    "B": -3.0,
+    "H": 0.5
+  },
+  "HfPt": null,
+  "LiMg2Ag": null,
+  "Zn3Rh": null,
+  "Li2CuO2": {
+    "Li": 1.0,
+    "Cu": 2.0,
+    "O": -2.0
+  },
+  "Sr3B3N5": {
+    "Sr": 2.0,
+    "B": 3.0,
+    "N": -3.0
+  },
+  "VCl2O": {
+    "V": 4.0,
+    "Cl": -1.0,
+    "O": -2.0
+  },
+  "Si5Pt6": {
+    "Si": 2.4,
+    "Pt": -2.0
+  },
+  "Ti2TcRh": null,
+  "CaLaMn2O6": {
+    "Ca": 2.0,
+    "La": 3.0,
+    "Mn": 3.5,
+    "O": -2.0
+  },
+  "Fe3RhN": null,
+  "CaSnO3": {
+    "Ca": 2.0,
+    "Sn": 4.0,
+    "O": -2.0
+  },
+  "Cs2CoS2": {
+    "Cs": 1.0,
+    "Co": 2.0,
+    "S": -2.0
+  },
+  "InCuSe2": {
+    "In": 3.0,
+    "Cu": 1.0,
+    "Se": -2.0
+  },
+  "TlCuS2": {
+    "Tl": 3.0,
+    "Cu": 1.0,
+    "S": -2.0
+  },
+  "SrMg": null,
+  "Na3PS3O": {
+    "Na": 1.0,
+    "P": 5.0,
+    "S": -2.0,
+    "O": -2.0
+  },
+  "BCl3": {
+    "B": 3.0,
+    "Cl": -1.0
+  },
+  "SrHg": null,
+  "Hf3Al2": null,
+  "KCrF6": {
+    "K": 1.0,
+    "Cr": 5.0,
+    "F": -1.0
+  },
+  "K2GeF6": {
+    "K": 1.0,
+    "Ge": 4.0,
+    "F": -1.0
+  },
+  "ZrHg3": null,
+  "Ti3Sn": null,
+  "YSnPt": null,
+  "Zn2CrN3": {
+    "Zn": 2.0,
+    "Cr": 5.0,
+    "N": -3.0
+  },
+  "Nb3AlC2": null,
+  "Sb3Rh": {
+    "Sb": -1.0,
+    "Rh": 3.0
+  },
+  "MnOF": {
+    "Mn": 3.0,
+    "O": -2.0,
+    "F": -1.0
+  },
+  "AgBr": {
+    "Ag": 1.0,
+    "Br": -1.0
+  },
+  "Ti2Cd": null,
+  "SrZnSi": {
+    "Sr": 2.0,
+    "Zn": 2.0,
+    "Si": -4.0
+  },
+  "Be2Fe": null,
+  "MoIr3": null,
+  "TbRhO3": {
+    "Tb": 3.0,
+    "Rh": 3.0,
+    "O": -2.0
+  },
+  "GePt": {
+    "Ge": 2.0,
+    "Pt": -2.0
+  },
+  "TaSe3": {
+    "Ta": 5.0,
+    "Se": -1.6666666666666667
+  },
+  "TiSnO4": {
+    "Ti": 4.0,
+    "Sn": 4.0,
+    "O": -2.0
+  },
+  "NaBeSb": {
+    "Na": 1.0,
+    "Be": 2.0,
+    "Sb": -3.0
+  },
+  "ScVO3": {
+    "Sc": 3.0,
+    "V": 3.0,
+    "O": -2.0
+  },
+  "Ba(BeN)2": {
+    "Ba": 2.0,
+    "Be": 2.0,
+    "N": -3.0
+  },
+  "NbAlCo2": null,
+  "K2CuBr3": {
+    "K": 1.0,
+    "Cu": 1.0,
+    "Br": -1.0
+  },
+  "LiSbAu": {
+    "Li": 1.0,
+    "Sb": -3.0,
+    "Au": 2.0
+  },
+  "ScTc2Mo": {
+    "Sc": 3.0,
+    "Tc": -3.0,
+    "Mo": 3.0
+  },
+  "SrGePt": null,
+  "LaMg3": null,
+  "Ti2CuSb3": {
+    "Ti": 4.0,
+    "Cu": 1.0,
+    "Sb": -3.0
+  },
+  "Zr2SnC": null,
+  "MgTiN2": {
+    "Mg": 2.0,
+    "Ti": 4.0,
+    "N": -3.0
+  },
+  "Li3Zn": null,
+  "Ca(ZnSb)2": {
+    "Ca": 2.0,
+    "Zn": 2.0,
+    "Sb": -3.0
+  },
+  "LaScO3": {
+    "La": 3.0,
+    "Sc": 3.0,
+    "O": -2.0
+  },
+  "Nb2O5": {
+    "Nb": 5.0,
+    "O": -2.0
+  },
+  "MgCu": null,
+  "Cu2B2C": {
+    "Cu": 1.0,
+    "B": 0.0,
+    "C": -2.0
+  },
+  "Zn2ReN3": {
+    "Zn": 2.0,
+    "Re": 5.0,
+    "N": -3.0
+  },
+  "LiY2Pt": null,
+  "ZrAl3": null,
+  "CrGeTe3": {
+    "Cr": 2.0,
+    "Ge": 4.0,
+    "Te": -2.0
+  },
+  "H5NF2": {
+    "H": 1.0,
+    "N": -3.0,
+    "F": -1.0
+  },
+  "SnH4": {
+    "Sn": 2.0,
+    "H": -0.5
+  },
+  "V4GaS8": {
+    "V": 3.25,
+    "Ga": 3.0,
+    "S": -2.0
+  },
+  "LiAl2Ir": null,
+  "Ba3Zr2O7": {
+    "Ba": 2.0,
+    "Zr": 4.0,
+    "O": -2.0
+  },
+  "TeMoWSeS2": {
+    "Te": -2.0,
+    "Mo": 6.0,
+    "W": 2.0,
+    "Se": -2.0,
+    "S": -2.0
+  },
+  "MgSiIr2": null,
+  "MnFeO4": null,
+  "YBi2BrO4": {
+    "Y": 3.0,
+    "Bi": 3.0,
+    "Br": -1.0,
+    "O": -2.0
+  },
+  "LiTiCl3": {
+    "Li": 1.0,
+    "Ti": 2.0,
+    "Cl": -1.0
+  },
+  "Na3P(SO)2": {
+    "Na": 1.0,
+    "P": 5.0,
+    "S": -2.0,
+    "O": -2.0
+  },
+  "P2O5": {
+    "P": 5.0,
+    "O": -2.0
+  },
+  "MoIr": null,
+  "ZrZnCu2": null,
+  "TiMnO4": {
+    "Ti": 4.0,
+    "Mn": 4.0,
+    "O": -2.0
+  },
+  "MnWO4": {
+    "Mn": 2.0,
+    "W": 6.0,
+    "O": -2.0
+  },
+  "MoC": {
+    "Mo": 4.0,
+    "C": -4.0
+  },
+  "PdF4": {
+    "Pd": 4.0,
+    "F": -1.0
+  },
+  "TbMnO3": {
+    "Tb": 4.0,
+    "Mn": 2.0,
+    "O": -2.0
+  },
+  "Li3P7": {
+    "Li": 1.0,
+    "P": -0.42857142857142855
+  },
+  "YAl2Ni": null,
+  "K2ReCl6": {
+    "K": 1.0,
+    "Re": 4.0,
+    "Cl": -1.0
+  },
+  "Cu10Sn3": null,
+  "Sc(BC)2": {
+    "Sc": 2.0,
+    "B": 3.0,
+    "C": -4.0
+  },
+  "Ca2SiO4": {
+    "Ca": 2.0,
+    "Si": 4.0,
+    "O": -2.0
+  },
+  "PtO2": {
+    "Pt": 4.0,
+    "O": -2.0
+  },
+  "Li3ScN2": {
+    "Li": 1.0,
+    "Sc": 3.0,
+    "N": -3.0
+  },
+  "NaLiO3": null,
+  "Cu2PdAu": null,
+  "Rh3W": null,
+  "Tl2WCl6": {
+    "Tl": 1.0,
+    "W": 4.0,
+    "Cl": -1.0
+  },
+  "Ti2CdC": null,
+  "BeBr2": {
+    "Be": 2.0,
+    "Br": -1.0
+  },
+  "Ca(ZnSi)2": null,
+  "Fe3Co": null,
+  "CaN6": {
+    "Ca": 2.0,
+    "N": -0.3333333333333333
+  },
+  "LiLa3": null,
+  "ScGeAu": null,
+  "HfP": null,
+  "HoFeO3": {
+    "Ho": 3.0,
+    "Fe": 3.0,
+    "O": -2.0
+  },
+  "CaGePt": null,
+  "Ni3Mo": null,
+  "Al2CoRu": null,
+  "NaLi2Sb": {
+    "Na": 1.0,
+    "Li": 1.0,
+    "Sb": -3.0
+  },
+  "ScFe2": null,
+  "RbTlO2": {
+    "Rb": 1.0,
+    "Tl": 3.0,
+    "O": -2.0
+  },
+  "TbB6": null,
+  "TiGaIr2": null,
+  "Tm(CuTe)3": {
+    "Tm": 3.0,
+    "Cu": 1.0,
+    "Te": -2.0
+  },
+  "HgPd": null,
+  "Ta2InC": null,
+  "Al2O": null,
+  "YCd2": null,
+  "Li7Sn3": null,
+  "Cs2MgH4": {
+    "Cs": 1.0,
+    "Mg": 2.0,
+    "H": -1.0
+  },
+  "CuS": {
+    "Cu": 2.0,
+    "S": -2.0
+  },
+  "ScIr2": null,
+  "ScNbO4": {
+    "Sc": 3.0,
+    "Nb": 5.0,
+    "O": -2.0
+  },
+  "Hf2Pd": null,
+  "NaPt2": null,
+  "NaAgO2": {
+    "Na": 1.0,
+    "Ag": 3.0,
+    "O": -2.0
+  },
+  "LiNiO2": {
+    "Li": 1.0,
+    "Ni": 3.0,
+    "O": -2.0
+  },
+  "MgSeO4": {
+    "Mg": 2.0,
+    "Se": 6.0,
+    "O": -2.0
+  },
+  "FeOF": {
+    "Fe": 3.0,
+    "O": -2.0,
+    "F": -1.0
+  },
+  "CaInPt": null,
+  "Sc2NiRh": null,
+  "Yb2CdSb2": {
+    "Yb": 2.0,
+    "Cd": 2.0,
+    "Sb": -3.0
+  },
+  "LiNbO3": {
+    "Li": 1.0,
+    "Nb": 5.0,
+    "O": -2.0
+  },
+  "Bi2CO5": {
+    "Bi": 3.0,
+    "C": 4.0,
+    "O": -2.0
+  },
+  "TiO": {
+    "Ti": 2.0,
+    "O": -2.0
+  },
+  "Fe(HO)2": {
+    "Fe": 2.0,
+    "H": 1.0,
+    "O": -2.0
+  },
+  "GdTl": null,
+  "Ga4GeO8": {
+    "Ga": 3.0,
+    "Ge": 4.0,
+    "O": -2.0
+  },
+  "Zn(GaS2)2": {
+    "Zn": 2.0,
+    "Ga": 3.0,
+    "S": -2.0
+  },
+  "CeAs": {
+    "Ce": 3.0,
+    "As": -3.0
+  },
+  "LiSiPd2": null,
+  "Bi2Pd": null,
+  "CdSiP2": {
+    "Cd": 2.0,
+    "Si": -4.0,
+    "P": 1.0
+  },
+  "Ti2ReRh": null,
+  "Ti2TcNi": null,
+  "HoNbRu2": null,
+  "Mg2SiNi3": null,
+  "Y2RuRh": null,
+  "Sc2IrPd": null,
+  "VSiOs2": {
+    "V": 5.0,
+    "Si": -4.0,
+    "Os": -0.5
+  },
+  "CuNiSb2": {
+    "Cu": 2.0,
+    "Ni": 2.0,
+    "Sb": -2.0
+  },
+  "TlCoW": null,
+  "MnSbRh2": null,
+  "MgCuBi": null,
+  "V6C5": {
+    "V": 3.3333333333333335,
+    "C": -4.0
+  },
+  "ScRu3C": null,
+  "Ti2FeO5": {
+    "Ti": 4.0,
+    "Fe": 2.0,
+    "O": -2.0
+  },
+  "Mn2Nb": null,
+  "SrNiO3": {
+    "Sr": 2.0,
+    "Ni": 4.0,
+    "O": -2.0
+  },
+  "YSi2Rh3": null,
+  "MgGa2": null,
+  "Sc2AgIr": null,
+  "TiBe2": null,
+  "TiS": {
+    "Ti": 2.0,
+    "S": -2.0
+  },
+  "Sr2VO4": {
+    "Sr": 2.0,
+    "V": 4.0,
+    "O": -2.0
+  },
+  "MgWO4": {
+    "Mg": 2.0,
+    "W": 6.0,
+    "O": -2.0
+  },
+  "Ba(MgAs)2": {
+    "Ba": 2.0,
+    "Mg": 2.0,
+    "As": -3.0
+  },
+  "TlSe": {
+    "Tl": 1.0,
+    "Se": -1.0
+  },
+  "CrFe3": null,
+  "Na3PS4": {
+    "Na": 1.0,
+    "P": 5.0,
+    "S": -2.0
+  },
+  "Cs2NiO2": {
+    "Cs": 1.0,
+    "Ni": 2.0,
+    "O": -2.0
+  },
+  "ThN": null,
+  "CaAu5": {
+    "Ca": 2.0,
+    "Au": -0.4
+  },
+  "Ti2RePd": null,
+  "SbRhO4": {
+    "Sb": 5.0,
+    "Rh": 3.0,
+    "O": -2.0
+  },
+  "Nb3Si": null,
+  "Ba2YNbO6": {
+    "Ba": 2.0,
+    "Y": 3.0,
+    "Nb": 5.0,
+    "O": -2.0
+  },
+  "YInNi": null,
+  "RbNaS": {
+    "Rb": 1.0,
+    "Na": 1.0,
+    "S": -2.0
+  },
+  "Li9Ge4": null,
+  "MgRh3": null,
+  "CePb3": null,
+  "Li6PS5I": {
+    "Li": 1.0,
+    "P": 5.0,
+    "S": -2.0,
+    "I": -1.0
+  },
+  "Sr4Fe4O11": null,
+  "CBrN": {
+    "C": 4.0,
+    "Br": -1.0,
+    "N": -3.0
+  },
+  "LiB3O5": {
+    "Li": 1.0,
+    "B": 3.0,
+    "O": -2.0
+  },
+  "Ti3Pt5": {
+    "Ti": 3.3333333333333335,
+    "Pt": -2.0
+  },
+  "OsS2": {
+    "Os": 4.0,
+    "S": -2.0
+  },
+  "V3B2": {
+    "V": 2.0,
+    "B": -3.0
+  },
+  "V3Os": null,
+  "AgClO3": null,
+  "LiCa2Ir": null,
+  "Ti2OsRu": null,
+  "La4PdO7": {
+    "La": 3.0,
+    "Pd": 2.0,
+    "O": -2.0
+  },
+  "ErTlTe2": {
+    "Er": 3.0,
+    "Tl": 1.0,
+    "Te": -2.0
+  },
+  "AlBMo": null,
+  "BaFeF4": {
+    "Ba": 2.0,
+    "Fe": 2.0,
+    "F": -1.0
+  },
+  "Ti2MnRu": null,
+  "ScSnPt": null,
+  "SmB6": null,
+  "Pr2AgRu": null,
+  "CuCl2": {
+    "Cu": 2.0,
+    "Cl": -1.0
+  },
+  "V3As": null,
+  "HBr": {
+    "H": 1.0,
+    "Br": -1.0
+  },
+  "Li2InPd": null,
+  "Be3P2": {
+    "Be": 2.0,
+    "P": -3.0
+  },
+  "ScC": {
+    "Sc": 3.0,
+    "C": -3.0
+  },
+  "Ta2N": null,
+  "Ba2SnO4": {
+    "Ba": 2.0,
+    "Sn": 4.0,
+    "O": -2.0
+  },
+  "Cu(SbO2)2": {
+    "Cu": 2.0,
+    "Sb": 3.0,
+    "O": -2.0
+  },
+  "LiCl": {
+    "Li": 1.0,
+    "Cl": -1.0
+  },
+  "PtS": {
+    "Pt": 2.0,
+    "S": -2.0
+  },
+  "GaPd2": null,
+  "Fe5Si3": {
+    "Fe": 2.4,
+    "Si": -4.0
+  },
+  "MgCO3": {
+    "Mg": 2.0,
+    "C": 4.0,
+    "O": -2.0
+  },
+  "YNbO4": {
+    "Y": 3.0,
+    "Nb": 5.0,
+    "O": -2.0
+  },
+  "YCoC": {
+    "Y": 3.0,
+    "Co": 1.0,
+    "C": -4.0
+  },
+  "NdCl3": {
+    "Nd": 3.0,
+    "Cl": -1.0
+  },
+  "Ba4Cu3PbO9": {
+    "Ba": 2.0,
+    "Cu": 2.0,
+    "Pb": 4.0,
+    "O": -2.0
+  },
+  "TiGaPt": null,
+  "Y(SiNi)2": {
+    "Y": 3.0,
+    "Si": -4.0,
+    "Ni": 2.5
+  },
+  "RbTiCl3": {
+    "Rb": 1.0,
+    "Ti": 2.0,
+    "Cl": -1.0
+  },
+  "TiClO": {
+    "Ti": 3.0,
+    "Cl": -1.0,
+    "O": -2.0
+  },
+  "TiAlFe2": null,
+  "CaCl2": {
+    "Ca": 2.0,
+    "Cl": -1.0
+  },
+  "Al3Pt2": null,
+  "Mn2CoO4": {
+    "Mn": 2.0,
+    "Co": 4.0,
+    "O": -2.0
+  },
+  "V2HO4": {
+    "V": 3.5,
+    "H": 1.0,
+    "O": -2.0
+  },
+  "K2CO3": {
+    "K": 1.0,
+    "C": 4.0,
+    "O": -2.0
+  },
+  "CaMoN3": {
+    "Ca": 2.0,
+    "Mo": 6.0,
+    "N": -2.6666666666666665
+  },
+  "Ba(AlGe)2": null,
+  "NbBr3O": {
+    "Nb": 5.0,
+    "Br": -1.0,
+    "O": -2.0
+  },
+  "PtPb4": null,
+  "ZrSbRu": null,
+  "Ca3Al3N5": {
+    "Ca": 2.0,
+    "Al": 3.0,
+    "N": -3.0
+  },
+  "NbCo2": null,
+  "SiO2": {
+    "Si": 4.0,
+    "O": -2.0
+  },
+  "Li7VN4": {
+    "Li": 1.0,
+    "V": 5.0,
+    "N": -3.0
+  },
+  "OsC": {
+    "Os": -2.0,
+    "C": 2.0
+  },
+  "Mg5Hg3": null,
+  "ScTlRh2": null,
+  "BaZrO3": {
+    "Ba": 2.0,
+    "Zr": 4.0,
+    "O": -2.0
+  },
+  "Zn2PdRh": null,
+  "Cu3Au": null,
+  "LaRhO3": {
+    "La": 3.0,
+    "Rh": 3.0,
+    "O": -2.0
+  },
+  "Ca2ZnRh": null,
+  "RbO2": null,
+  "AlGaN2": {
+    "Al": 3.0,
+    "Ga": 3.0,
+    "N": -3.0
+  },
+  "MnSnO3": {
+    "Mn": 2.0,
+    "Sn": 4.0,
+    "O": -2.0
+  },
+  "MnTePd": null,
+  "Mg2SiPt": null,
+  "B2S2O9": {
+    "B": 3.0,
+    "S": 6.0,
+    "O": -2.0
+  },
+  "Fe2Ge": null,
+  "Sc3TlB": null,
+  "LiC6": {
+    "Li": 1.0,
+    "C": -0.16666666666666666
+  },
+  "Ba3MnN3": {
+    "Ba": 2.0,
+    "Mn": 3.0,
+    "N": -3.0
+  },
+  "Co3BiO8": {
+    "Co": 3.6666666666666665,
+    "Bi": 5.0,
+    "O": -2.0
+  },
+  "NbInO4": {
+    "Nb": 5.0,
+    "In": 3.0,
+    "O": -2.0
+  },
+  "BaH2": {
+    "Ba": 2.0,
+    "H": -1.0
+  },
+  "IBr": null,
+  "VCoB3": {
+    "V": 2.0,
+    "Co": 1.0,
+    "B": -1.0
+  },
+  "Ti2TcIr": null,
+  "NaAlH4": {
+    "Na": 1.0,
+    "Al": 3.0,
+    "H": -1.0
+  },
+  "ZrI3": {
+    "Zr": 3.0,
+    "I": -1.0
+  },
+  "Sc2FeSi2": {
+    "Sc": 3.0,
+    "Fe": 2.0,
+    "Si": -4.0
+  },
+  "PdSe2": {
+    "Pd": 4.0,
+    "Se": -2.0
+  },
+  "Sc2SO2": {
+    "Sc": 3.0,
+    "S": -2.0,
+    "O": -2.0
+  },
+  "MgSnPd2": null,
+  "Y2Si4CN6": {
+    "Y": 3.0,
+    "Si": 4.0,
+    "C": -4.0,
+    "N": -3.0
+  },
+  "K2P3": {
+    "K": 1.0,
+    "P": -0.6666666666666666
+  },
+  "K3BP2": {
+    "K": 1.0,
+    "B": 3.0,
+    "P": -3.0
+  },
+  "Sr2Si": {
+    "Sr": 2.0,
+    "Si": -4.0
+  },
+  "Ni(AgO)2": {
+    "Ni": 2.0,
+    "Ag": 1.0,
+    "O": -2.0
+  },
+  "LiI": {
+    "Li": 1.0,
+    "I": -1.0
+  },
+  "MgIn": null,
+  "Rb2S": {
+    "Rb": 1.0,
+    "S": -2.0
+  },
+  "ScPO4": {
+    "Sc": 3.0,
+    "P": 5.0,
+    "O": -2.0
+  },
+  "LiCuF4": {
+    "Li": 1.0,
+    "Cu": 3.0,
+    "F": -1.0
+  },
+  "TiSiNi": {
+    "Ti": 2.0,
+    "Si": -4.0,
+    "Ni": 2.0
+  },
+  "CoN": {
+    "Co": 3.0,
+    "N": -3.0
+  },
+  "LaGe": null,
+  "YRh3C": null,
+  "CrAs": {
+    "Cr": 3.0,
+    "As": -3.0
+  },
+  "Sc2Al": null,
+  "NiSbSe": {
+    "Ni": 3.0,
+    "Sb": -1.0,
+    "Se": -2.0
+  },
+  "BaCoO3": {
+    "Ba": 2.0,
+    "Co": 4.0,
+    "O": -2.0
+  },
+  "Co2Si": {
+    "Co": 2.0,
+    "Si": -4.0
+  },
+  "BaBiO3": null,
+  "MnTe2": {
+    "Mn": 4.0,
+    "Te": -2.0
+  },
+  "VCu3S4": {
+    "V": 5.0,
+    "Cu": 1.0,
+    "S": -2.0
+  },
+  "NbFeSb": null,
+  "YAl4Ni": null,
+  "Al(CoSi)2": {
+    "Al": 3.0,
+    "Co": 2.5,
+    "Si": -4.0
+  },
+  "BaSn3Pd": null,
+  "SrMgTl2": null,
+  "Li2SbPd": null,
+  "Sc3PbC": null,
+  "Hf3(Cu2Si)2": null,
+  "K2PtCl4": {
+    "K": 1.0,
+    "Pt": 2.0,
+    "Cl": -1.0
+  },
+  "MgCu2O3": {
+    "Mg": 2.0,
+    "Cu": 2.0,
+    "O": -2.0
+  },
+  "FeNiO3": {
+    "Fe": 3.0,
+    "Ni": 3.0,
+    "O": -2.0
+  },
+  "CeCuSn": null,
+  "ScBrO": {
+    "Sc": 3.0,
+    "Br": -1.0,
+    "O": -2.0
+  },
+  "Cs2PtI6": {
+    "Cs": 1.0,
+    "Pt": 4.0,
+    "I": -1.0
+  },
+  "Ti2MoPt": null,
+  "Sc2AlSi2": {
+    "Sc": 2.5,
+    "Al": 3.0,
+    "Si": -4.0
+  },
+  "Ba5Bi3": null,
+  "Fe2P": null,
+  "PdC": {
+    "Pd": 2.0,
+    "C": -2.0
+  },
+  "CrSb": {
+    "Cr": 3.0,
+    "Sb": -3.0
+  },
+  "TiCrO4": {
+    "Ti": 4.0,
+    "Cr": 4.0,
+    "O": -2.0
+  },
+  "LiZn3": null,
+  "Ti3SiC2": {
+    "Ti": 4.0,
+    "Si": -4.0,
+    "C": -4.0
+  },
+  "BaFeO3": null,
+  "SrIn2Pt": null,
+  "TiCoSi": {
+    "Ti": 2.0,
+    "Co": 2.0,
+    "Si": -4.0
+  },
+  "Mg(ScGa)2": null,
+  "Al2Au": null,
+  "HfFeGe": null,
+  "LiTiPO5": {
+    "Li": 1.0,
+    "Ti": 4.0,
+    "P": 5.0,
+    "O": -2.0
+  },
+  "FeCl3": {
+    "Fe": 3.0,
+    "Cl": -1.0
+  },
+  "TaGaCo2": null,
+  "ScSnPd2": null,
+  "Cd(HO)2": {
+    "Cd": 2.0,
+    "H": 1.0,
+    "O": -2.0
+  },
+  "Eu2O3": {
+    "Eu": 3.0,
+    "O": -2.0
+  },
+  "MgAlIr2": null,
+  "Pd(SCl3)2": {
+    "Pd": 2.0,
+    "S": 2.0,
+    "Cl": -1.0
+  },
+  "V2CdO6": {
+    "V": 5.0,
+    "Cd": 2.0,
+    "O": -2.0
+  },
+  "FeGeRu2": null,
+  "Ca(BC)2": {
+    "Ca": 2.0,
+    "B": 3.0,
+    "C": -4.0
+  },
+  "CsNiCl3": {
+    "Cs": 1.0,
+    "Ni": 2.0,
+    "Cl": -1.0
+  },
+  "Al21Pt8": null,
+  "ScInPd2": null,
+  "TiVTc2": {
+    "Ti": 4.0,
+    "V": 2.0,
+    "Tc": -3.0
+  },
+  "Cu3O2": {
+    "Cu": 1.3333333333333333,
+    "O": -2.0
+  },
+  "ScInNi2": null,
+  "LiAl2Pt": null,
+  "SrNiF6": {
+    "Sr": 2.0,
+    "Ni": 4.0,
+    "F": -1.0
+  },
+  "Sc2ZnOs": null,
+  "CrHO2": {
+    "Cr": 3.0,
+    "H": 1.0,
+    "O": -2.0
+  },
+  "ScAg4": null,
+  "Rb3Ba": null,
+  "MnCoO3": {
+    "Mn": 2.0,
+    "Co": 4.0,
+    "O": -2.0
+  },
+  "Zr5Sn4": null,
+  "HfInCo2": null,
+  "Mn2P": null,
+  "Ta2Be": null,
+  "MgSnP2": {
+    "Mg": 2.0,
+    "Sn": 4.0,
+    "P": -3.0
+  },
+  "MgZrN2": {
+    "Mg": 2.0,
+    "Zr": 4.0,
+    "N": -3.0
+  },
+  "Hf3Sb": null,
+  "LiMg2Ga": null,
+  "ZnSeO4": {
+    "Zn": 2.0,
+    "Se": 6.0,
+    "O": -2.0
+  },
+  "CsSnI3": {
+    "Cs": 1.0,
+    "Sn": 2.0,
+    "I": -1.0
+  },
+  "MnBe2Pt": null,
+  "CaSn2Pd": null,
+  "Mn(BW)2": {
+    "Mn": 2.0,
+    "B": -3.0,
+    "W": 2.0
+  },
+  "MnAsPd2": null,
+  "YCu2Bi2(SeO2)2": {
+    "Y": 3.0,
+    "Cu": 1.5,
+    "Bi": 3.0,
+    "Se": -2.0,
+    "O": -2.0
+  },
+  "Sr2SnO4": {
+    "Sr": 2.0,
+    "Sn": 4.0,
+    "O": -2.0
+  },
+  "Rb2NbF6": {
+    "Rb": 1.0,
+    "Nb": 4.0,
+    "F": -1.0
+  },
+  "LiTbHg2": null,
+  "CaF2": {
+    "Ca": 2.0,
+    "F": -1.0
+  },
+  "RbFeF4": {
+    "Rb": 1.0,
+    "Fe": 3.0,
+    "F": -1.0
+  },
+  "Cs2Pd3Se4": {
+    "Cs": 1.0,
+    "Pd": 2.0,
+    "Se": -2.0
+  },
+  "CuAsS": {
+    "Cu": 3.0,
+    "As": -1.0,
+    "S": -2.0
+  },
+  "CsSnSe3": {
+    "Cs": 1.0,
+    "Sn": 4.0,
+    "Se": -1.6666666666666667
+  },
+  "NaBiO3": {
+    "Na": 1.0,
+    "Bi": 5.0,
+    "O": -2.0
+  }
+}

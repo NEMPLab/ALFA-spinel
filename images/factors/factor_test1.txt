@@ -1,0 +1,41 @@
+alpha_1    sub($Ns_a$, $Nd_b$)
+Name: p, dtype: object
+alpha_1    inv(sub($Ns_a$, $Nd_b$))
+Name: p, dtype: object
+alpha_1    inv(sub(sqrt(div(sqrt(div($Ns_a$, $R_b$)), $R_...
+Name: p, dtype: object
+alpha_1    mul(sub($o$, div(inv(log($Nd_b$)), log(sub($V_...
+Name: p, dtype: object
+$R_b$
+div(log($o$), log($Nd_b$))
+log(mul($R_b$, add(0.723, div(0.723, $Nd_b$))))
+sub(mul($R_b$, $V_a$), log(sub(sub(add($R_c$, mul(log($R_b$), $Ve_a$)), sqrt(add($Nd_b$, sqrt($Nd_b$)))), $Nd_b$)))
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+sub(add(div($Ns_a$, sub(sqrt(sub($Ce_c$, sub(sqrt($Ve_a$), add(mul(sqrt(mul($N_a$, $Nd_b$)), log($R_b$)), sqrt(sub($Ce_c$, sub(sqrt($Ve_a$), abs(div($F_b$, $Ce_b$))))))))), add($Nd_b$, $Np_b$))), sub(add(abs($Ns_a$), mul(log(div(sqrt(sqrt(sub($Ce_c$, sub(sqrt($Ve_a$), $Np_b$)))), sqrt(abs(div($F_b$, $Ce_b$))))), $Ve_a$)), abs($Nd_b$))), abs($Nd_b$))
+gap_AO
+gap_AO
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+add(sub($Ns_a$, $Nd_b$), add(sub(sub(sub($Ns_a$, log($R_b$)), $Nd_b$), inv($F_b$)), mul(log($R_b$), $Ve_a$)))
+$R_b$
+inv(sub($Ns_a$, $Nd_b$))
+sub($R_b$, add(sqrt(sqrt(inv(log($Nd_b$)))), div($Np_b$, $Ns_a$)))
+log(sub(sqrt(div(sqrt($Ve_a$), sub(div($Ns_a$, $R_a$), sub($Np_b$, inv(sqrt(0.804)))))), sqrt(sub(div(LUMO_character, $V_a$), div(add($Ce_a$, $N_b$), add($Nd_b$, $Ce_b$))))))
+$R_b$
+inv(sub($Ns_a$, $Nd_b$))
+sub($R_b$, add(sqrt(sqrt(inv(log($Nd_b$)))), div($Np_b$, $Ns_a$)))
+log(sub(sqrt(div(sqrt($Ve_a$), sub(div($Ns_a$, $R_a$), sub($Np_b$, inv(sqrt(0.804)))))), sqrt(sub(div(LUMO_character, $V_a$), div(add($Ce_a$, $N_b$), add($Nd_b$, $Ce_b$))))))
+div(div(mul(gap_AO, $Ce_b$), add($V_a$, $Mt_b$)), div(div(0.842, $D_b$), sub(gap_AO, $Dp_b$)))
+sub($Ns_a$, $Nd_b$)
+sub(sub($Ns_a$, $Nd_b$), mul($Np_b$, $F_a$))
+add(sub(sub($Ns_a$, mul($R_c$, inv(log($Nd_b$)))), add($Ce_a$, $Nd_b$)), sub(mul(log(mul(sub($Ns_a$, mul($R_c$, inv(log($Nd_b$)))), sub(gap_AO, $R_b$))), $F_a$), mul($Np_b$, $F_a$)))
+mul(f, $D_b$)
+mul(f, $D_b$)
+div(div(f, $Ce_a$), $Ce_a$)
+div(add(div(div(add(add(div(div(div(mul(div(div(add(add(div(div(div(mul(inv(f), $Dp_b$), sqrt($Dp_a$)), $Ce_a$), $(En)diff_{ca}$), log($o$)), log($o$)), $(En)diff_{ca}$), $Ce_a$), $Dp_b$), sqrt($Dp_a$)), $Ce_a$), $(En)diff_{ca}$), log($o$)), log($o$)), $(En)diff_{ca}$), $Ce_a$), log($o$)), $(En)diff_{ca}$)
+div(div(mul(gap_AO, $Ce_b$), add($V_a$, $Mt_b$)), div(div(0.842, $D_b$), sub(gap_AO, $Dp_b$)))
+sub($Ns_a$, $Nd_b$)
+sub(sub($Ns_a$, $Nd_b$), mul($Np_b$, $F_a$))
+add(sub(sub($Ns_a$, mul($R_c$, inv(log($Nd_b$)))), add($Ce_a$, $Nd_b$)), sub(mul(log(mul(sub($Ns_a$, mul($R_c$, inv(log($Nd_b$)))), sub(gap_AO, $R_b$))), $F_a$), mul($Np_b$, $F_a$)))

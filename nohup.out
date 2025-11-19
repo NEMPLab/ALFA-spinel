@@ -1,0 +1,41 @@
+[E 15:56:01.164 NotebookApp] Exception while loading config file /home/ls/.jupyter/jupyter_notebook_config.py
+    Traceback (most recent call last):
+      File "/home/ls/anaconda3/lib/python3.9/site-packages/traitlets/config/application.py", line 738, in _load_config_files
+        config = loader.load_config()
+      File "/home/ls/anaconda3/lib/python3.9/site-packages/traitlets/config/loader.py", line 614, in load_config
+        self._read_file_as_dict()
+      File "/home/ls/anaconda3/lib/python3.9/site-packages/traitlets/config/loader.py", line 646, in _read_file_as_dict
+        exec(compile(f.read(), conf_filename, 'exec'), namespace, namespace)
+      File "/home/ls/.jupyter/jupyter_notebook_config.py", line 287
+        c.NotebookApp.iopub_data_rate_limit = 10000000000
+    IndentationError: unexpected indent
+[W 2025-10-18 15:56:01.768 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-10-18 15:56:01.768 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2025-10-18 15:56:01.779 LabApp] JupyterLab extension loaded from /home/ls/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2025-10-18 15:56:01.779 LabApp] JupyterLab application directory is /home/ls/anaconda3/share/jupyter/lab
+[I 15:56:01.785 NotebookApp] The port 8888 is already in use, trying another port.
+[I 15:56:01.785 NotebookApp] The port 8889 is already in use, trying another port.
+[I 15:56:01.787 NotebookApp] Serving notebooks from local directory: /home/ls/spinels
+[I 15:56:01.787 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 15:56:01.788 NotebookApp] http://localhost:8890/
+[I 15:56:01.788 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+START /usr/bin/kfmclient openURL "/home/ls/.local/share/jupyter/runtime/nbserver-21905-open.html" text/html
+Launched ok, pid = 22156
+[I 15:56:06.402 NotebookApp] 302 GET /tree (::1) 2.360000ms
+[I 15:56:51.948 NotebookApp] 302 GET /tree? (::1) 1.460000ms
+[W 15:56:57.259 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 111.720000ms referer=http://localhost:1113/login?next=%2Ftree%3F
+[W 15:57:00.384 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 42.040000ms referer=http://localhost:1113/login?next=%2Ftree%3F
+[W 15:57:03.586 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 39.030000ms referer=http://localhost:1113/login?next=%2Ftree%3F
+[W 15:57:14.897 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 38.840000ms referer=http://localhost:1113/login?next=%2Ftree%3F
+[I 21:38:25.122 NotebookApp] 302 GET /tree? (::1) 1.470000ms
+[W 21:38:30.822 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 40.440000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 21:40:18.342 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 39.030000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 21:40:21.692 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 39.410000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 21:40:35.327 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 41.560000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 22:09:44.996 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 41.290000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 22:09:47.521 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 39.000000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[I 23:29:19.601 NotebookApp] 302 GET /tree? (::1) 1.390000ms
+[W 23:29:21.564 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 41.340000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 23:29:22.227 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 38.810000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 23:31:54.451 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 40.840000ms referer=http://localhost:8891/login?next=%2Ftree%3F
+[W 23:32:00.829 NotebookApp] 401 POST /login?next=%2Ftree%3F (::1) 39.250000ms referer=http://localhost:8891/login?next=%2Ftree%3F

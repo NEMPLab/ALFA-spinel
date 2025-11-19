@@ -1,0 +1,89 @@
+alpha_1    inv(sub($Ns_a$, $Nd_b$))
+Name: p, dtype: object
+alpha_1    inv(sub(sqrt(div(sqrt(div($Ns_a$, $R_b$)), $R_...
+Name: p, dtype: object
+alpha_1    add(inv(sub($(En)diff_{cb}$, $Nd_b$)), add(inv...
+Name: p, dtype: object
+alpha_1    sub(log(mul($R_b$, mul($R_b$, $Ns_a$))), log($...
+Name: p, dtype: object
+alpha_1    mul(inv($Ns_a$), mul(inv($Ns_a$), log(mul($R_b...
+Name: p, dtype: object
+alpha_1    inv(sub($Ns_a$, $Nd_b$))
+Name: p, dtype: object
+alpha_1    inv(sub(sqrt(inv(sub(sqrt($Ns_a$), $Nd_b$))), ...
+Name: p, dtype: object
+alpha_1    inv(sub($Ns_a$, $Nd_b$))
+Name: p, dtype: object
+alpha_1    inv(sub($Ns_a$, $Nd_b$))
+Name: p, dtype: object
+alpha_1    sub(sub($Ns_a$, $Nd_b$), $Np_b$)
+Name: p, dtype: object
+alpha_1    sub($Ns_a$, add($Nd_b$, $Np_b$))
+Name: p, dtype: object
+alpha_1    add(sub(log($R_b$), log($Nd_b$)), log($Ns_a$))
+Name: p, dtype: object
+alpha_1    log(add($R_b$, inv(sub(log(inv(sub(log($Ns_a$)...
+Name: p, dtype: object
+alpha_1    div(inv(LUMO_element), sub($(En)diff_{cb}$, $N...
+Name: p, dtype: object
+alpha_1    sub(div(div(log($(En)diff_{ab}$), log($Nd_b$))...
+Name: p, dtype: object
+alpha_1    mul($R_c$, log(add($R_b$, log(add($R_b$, add($...
+Name: p, dtype: object
+alpha_1    add(add(log($R_b$), inv(add($F_a$, $Nd_b$))), ...
+Name: p, dtype: object
+alpha_1    inv(sub($(En)diff_{cb}$, $Nd_b$))
+Name: p, dtype: object
+alpha_1    inv(sub($(En)diff_{cb}$, $Nd_b$))
+Name: p, dtype: object
+alpha_1    add(sub(log(inv($F_b$)), log(sub(log(inv($F_b$...
+Name: p, dtype: object
+alpha_1    sub(mul($R_b$, $Ns_a$), sqrt(add(sqrt($Nd_b$),...
+Name: p, dtype: object
+alpha_1    add(sub(sub(div(sqrt($Ns_a$), $Ce_c$), inv(log...
+Name: p, dtype: object
+alpha_1    sub(log($V_a$), sqrt(mul(add(add($Nd_b$, LUMO_...
+Name: p, dtype: object
+alpha_1    sub($R_b$, add(sqrt(sqrt(inv(log($Nd_b$)))), d...
+Name: p, dtype: object
+alpha_1    add(inv(add($Nd_b$, $Ns_a$)), log($R_b$))
+Name: p, dtype: object
+alpha_1    add($R_b$, sub(add($R_b$, sub(mul(div($(En)dif...
+Name: p, dtype: object
+alpha_1    mul($R_c$, sub(log(add($V_a$, div(log($(En)dif...
+Name: p, dtype: object
+add(inv(sub($Ce_c$, sub($R_b$, $Nd_b$))), log($R_b$))
+log(mul($R_b$, add(0.723, div(0.723, $Nd_b$))))
+mul($R_b$, div(sub($D_a$, $Ve_a$), log($Nd_b$)))
+mul($R_c$, div(div(log($Ce_b$), sub(log($N_b$), $F_b$)), $o$))
+mul($R_c$, mul($R_c$, mul($R_c$, div(sub($R_b$, 0.893), log($Nd_b$)))))
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+mul($Ns_a$, div(sub($V_a$, $Ce_b$), log($Nd_b$)))
+mul($Ns_a$, div(sub($V_a$, $Ce_b$), log($Nd_b$)))
+sub($(En)diff_{ab}$, log($Nd_b$))
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+sub($Ns_a$, $Nd_b$)
+sub(log($V_a$), sqrt(mul(add(add($Nd_b$, LUMO_character), LUMO_character), log($R_b$))))
+sub($R_b$, add(sqrt(sqrt(inv(log($Nd_b$)))), div($Np_b$, $Ns_a$)))
+add(inv(add($Nd_b$, $Ns_a$)), log($R_b$))
+add($R_b$, sub(add($R_b$, sub(mul(div($(En)diff_{ab}$, log($Nd_b$)), $Ns_a$), inv($R_b$))), inv($R_b$)))
+mul($R_c$, sub(log(add($V_a$, div(log($(En)diff_{ab}$), log($Nd_b$)))), 0.893))
+sub(log($V_a$), sqrt(mul(add(add($Nd_b$, LUMO_character), LUMO_character), log($R_b$))))
+sub($R_b$, add(sqrt(sqrt(inv(log($Nd_b$)))), div($Np_b$, $Ns_a$)))
+add(inv(add($Nd_b$, $Ns_a$)), log($R_b$))
+add($R_b$, sub(add($R_b$, sub(mul(div($(En)diff_{ab}$, log($Nd_b$)), $Ns_a$), inv($R_b$))), inv($R_b$)))
+mul($R_c$, sub(log(add($V_a$, div(log($(En)diff_{ab}$), log($Nd_b$)))), 0.893))
+sub($Ve_b$, sub($F_b$, sub($Ns_a$, $Nd_b$)))
+sub(sub($Ns_a$, $Nd_b$), mul($Np_b$, $F_a$))
+sub(add(sub($R_b$, log($Nd_b$)), $Ns_a$), $Ce_c$)
+sub(div(log($Ns_a$), log($(En)diff_{cb}$)), $Nd_b$)
+sub(add($Ns_a$, HOMO_energy), sqrt($F_b$))
+sub($Ve_b$, sub($F_b$, sub($Ns_a$, $Nd_b$)))
+sub(sub($Ns_a$, $Nd_b$), mul($Np_b$, $F_a$))
+sub(add(sub($R_b$, log($Nd_b$)), $Ns_a$), $Ce_c$)
+sub(div(log($Ns_a$), log($(En)diff_{cb}$)), $Nd_b$)
+sub(add($Ns_a$, HOMO_energy), sqrt($F_b$))
